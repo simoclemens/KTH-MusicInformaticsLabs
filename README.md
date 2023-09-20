@@ -1,1 +1,1 @@
-# KTH-MusicInformatics
+# DT2470 Music Informatics @ KTH
