@@ -1,1 +1,2 @@
-# DT2470 Music Informatics @ KTH
+#KTH-MusicInformatics
+### Solved labs for the KTH course in Music Informatics DT2470 
